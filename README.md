@@ -1,4 +1,4 @@
--
+
 # Comparaison Baseline vs VGG16 pour le Débruitage sur Fashion-MNIST
 
 ## 1. Objectif
